@@ -18,6 +18,11 @@
 6. Chiedere al cliente se è possibile ottenere (se presenti) precedenti REPORT di PT o VULNERABILITY ASSESSMENT.
 7. Redarre insieme al cliente un DOCUMENTO in cui sono specificati tutti gli aspetti legali relativi all'attività di PT che si andrà ad effettuare.
 8. Redarre un DOCUMENTO CONTRATTUALE in cui sono specificati i termini economici e di durata temporale del PT.
+9. Dopo aver formalizzato tutta la parte economica e contrattule, procedere con la definizione di una LISTA DETTAGLIATA di tutti gli elementi che si dovranno testare:
+
+      - Dispositivi di rete (Router, Switch, ecc...).
+      - Server | Workstation.
+      - Web Application.
 
 
 
