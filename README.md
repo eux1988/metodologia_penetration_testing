@@ -15,6 +15,7 @@
       - Internal | External PT.
       
 5. Definita la tipologia di PT da effettuare, dettagliare quali TEST dovranno essere effettuati e su quali DISPOSITIVI.
+6. Chiedere al cliente se è possibile ottenere (se presenti) precedenti REPORT di PT o VULNERABILITY ASSESSMENT.
 
 
 
