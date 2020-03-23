@@ -9,6 +9,9 @@
 1. Raccogliere informazioni dettagliate sull'organizzazione su cui si andrà ed effettuare l'attività di PT (Penetration Testing).
 2. Identificare il team IT dell'organizzazione con maggiore focus sulla parte IT Security.
 
+1. Item 1
+1. Item 2
+
 
 # :boom:WEB PENETRATION TESTING 
 
