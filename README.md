@@ -14,7 +14,7 @@
       - White | Black | Grey PT.
       - Internal | External PT.
       
-5. Definita la tipologia di PT da effettuare, dettagliare quali TEST dovranno essere effettuati e su quali **DISPOSITIVI**.
+5. Definita la tipologia di PT da effettuare, dettagliare quali **TEST** dovranno essere effettuati e su quali **DISPOSITIVI**.
 6. Chiedere al cliente se è possibile ottenere (se presenti) precedenti **[REPORT](https://github.com/juliocesarfort/public-pentesting-reports) di PT o VULNERABILITY ASSESSMENT**.
 7. Redarre insieme al cliente un **[DOCUMENTO](https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Info-Security-Library-Items/CMS-Penetration-Testing-Rules-of-Engagement-Template)** in cui sono specificati tutti gli aspetti legali relativi all'attività di PT che si andrà ad effettuare.
 8. Redarre un **DOCUMENTO CONTRATTUALE** in cui sono specificati i termini economici e di durata temporale del PT.
@@ -28,7 +28,7 @@
       - Dispositivi IoT.
       - Altro.
       
-10. Essere in posseso di una lista di contatti lato cliente da chiamare in caso di necessità.
+10. Essere in posseso di una **lista di contatti** lato cliente da chiamare in caso di necessità.
 11. Avvertire (se previsto dalla tipologia di PT che si dovrà eseguire) l'IT TEAM del cliente quando si andranno ad effettuare le varie attività relative al PT così che possano monitore la situazione.
 12. Definire come dovrà essere **REDATTO e CONSEGNATO** al cliente il **[REPORT FINALE](https://github.com/juliocesarfort/public-pentesting-reports)**.
 
