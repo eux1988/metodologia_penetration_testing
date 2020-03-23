@@ -4,7 +4,7 @@
 
 # :boom: NETWORK PENETRATION TESTING 
 
-## FASE 0 |  PRELIMINARE
+## :ballot_box_with_check: FASE 0 |  PRELIMINARE
 
 1. Raccogliere informazioni dettagliate sull'organizzazione su cui si andrà ed effettuare l'attività di PT (Penetration Testing).
 2. Identificare il team IT dell'organizzazione con maggiore focus sulla parte IT Security.
