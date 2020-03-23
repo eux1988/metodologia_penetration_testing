@@ -16,6 +16,8 @@
       
 5. Definita la tipologia di PT da effettuare, dettagliare quali TEST dovranno essere effettuati e su quali DISPOSITIVI.
 6. Chiedere al cliente se è possibile ottenere (se presenti) precedenti REPORT di PT o VULNERABILITY ASSESSMENT.
+7. Redarre insieme al cliente un DOCUMENTO in cui sono specificati tutti gli aspetti legali relativi all'attività di PT che si andrà ad effettuare.
+8. Redarre un DOCUMENTO CONTRATTUALE in cui sono specificati i termini economici e di durata temporale del PT.
 
 
 
