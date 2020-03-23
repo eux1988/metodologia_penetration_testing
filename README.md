@@ -13,7 +13,10 @@
 
       - White | Black | Grey PT.
       - Internal | External PT.
-      - Indirizzi IP | Servizi da testare.
+      
+5. Definita la tipologia di PT da effettuare, dettagliare quali TEST dovranno essere effettuati e su quali DISPOSITIVI.
+
+
 
 
 
