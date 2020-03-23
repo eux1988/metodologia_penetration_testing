@@ -23,8 +23,14 @@
       - Dispositivi di rete (Router, Switch, ecc...).
       - Server | Workstation.
       - Web Application.
-
-
+      - Dispositivi SCADA | ICS.
+      - Dispositivi di rete WIFI.
+      - Dispositivi IoT.
+      - Altro.
+      
+10. Essere in posseso di una lista di contatti lato cliente da chiamare in caso di necessità.
+11. Avvertire (se previsto dalla tipologia di PT che si dovrà eseguire) l'IT TEAM del cliente quando si andranno ad effettuare le varie attività relative al PT
+12. Definire come dovrà essere REDATTO e CONSEGNATO al cliente il REPORT FINALE.
 
 
 
