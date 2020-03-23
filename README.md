@@ -9,7 +9,7 @@
 1. Raccogliere informazioni dettagliate sull'organizzazione su cui si andrà ed effettuare l'attività di **PT (Penetration Testing)**.
 2. Identificare il team IT dell'organizzazione con maggiore focus sulla parte IT Security.
 3. Effettuare, se possibile, un sopralluogo FISICO nell'azienda così da raccogliere ulteriori dettagi/ punti deboli relativi al contesto in cui si andrà ad operare.
-4. Discutere insieme al Cliente la **tipologia di Penetration Testing** che si dovrà effettuare, tra cui:
+4. Discutere insieme al Cliente la **[tipologia di Penetration Testing](https://resources.infosecinstitute.com/the-types-of-penetration-testing/#gref)** che si dovrà effettuare, tra cui:
 
       - White | Black | Grey PT.
       - Internal | External PT.
