@@ -47,8 +47,9 @@
 9. Verificare la presenza di **annunci di lavoro** pubblicati sui vari siti/motori di ricerca specifici dato che potrebbero indirettamente fornire informazioni sulla tipologia di prodotti hardware/software utilizzati e sull'organizzazione più in generale.
 10. Effettuare una ricerca all'interno dei **Social Network (Linkedin in primis)**.
 11. Cercare di ottenere una **lista del personale** che lavora all'interno dell'azienda.
-12. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
-13. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
+12. Inviare delle **mail al personale** interno dell'azienda chiedendo "finte informazioni" al fine di acquisire ulteriori dettagli. 
+13. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
+14. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
 
 
 # :boom:WEB PENETRATION TESTING 
