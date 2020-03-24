@@ -32,6 +32,7 @@
 11. Avvertire (se previsto dalla tipologia di PT che si dovrà eseguire) l'IT TEAM del cliente quando si andranno ad effettuare le varie attività relative al PT così che possano monitore la situazione.
 12. Definire come dovrà essere **REDATTO e CONSEGNATO** al cliente il **[REPORT FINALE](https://github.com/juliocesarfort/public-pentesting-reports)**.
 
+## :ballot_box_with_check: FASE 1 |  RACCOLTA DELLE INFORMAZIONI 
 
 
 # :boom:WEB PENETRATION TESTING 
