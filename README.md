@@ -36,6 +36,20 @@
 
 ![OSINT LANDSCAPE](https://i.pinimg.com/originals/17/42/60/1742609b23627ea1895cb109d44e31a4.jpg)
 
+1. Visitare il sito dell'organizzazione "target" ed effettuare l'operazione di "crawling" copiando le varie pagine localmente.
+2. Effettuare una ricerca sui **DATABASE PUBBLICI** per rilevare eventuali informazioni legate al **DOMINIO** in oggetto.
+3. Analizzare i **BUSINESS** su cui si base l'azienda.
+4. Prendere nota dal sito di ogni informazione di contatto utile: indirizzo, telefono, mail, ecc.
+5. Verificare (e indagare) la presenza di eventuali **FORNITORI/PARTNER** in quanto potrebbero indirirettamente fornire ulteriori utili informazioni.
+6. Ricercare su **FORUM** e simili discussioni relative all'azienda e alle persone che lavorano al suo interno.
+7. Identificare la locazione geografica dell'azienda e di eventuali **uffici/sedi "satellite"**.
+8. Verificare il contenuto di **precedenti versioni del sito web aziendale**, in quanto, i contenuti potrebbero essere cambiati. 
+9. Verificare la presenza di **annunci di lavoro** pubblicati sui vari siti/motori di ricerca specifici dato che potrebbero indirettamente fornire informazioni sulla tipologia di prodotti hardware/software utilizzati e sull'organizzazione più in generale.
+10. Effettuare una ricerca all'interno dei **Social Network (Linkedin in primis)**.
+11. Cercare di ottenere una **lista del personale** che lavora all'interno dell'azienda.
+12. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
+13. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
+
 
 # :boom:WEB PENETRATION TESTING 
 
