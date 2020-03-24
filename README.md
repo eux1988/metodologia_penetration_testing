@@ -39,24 +39,24 @@
 1. Visitare il sito dell'organizzazione "target" ed effettuare l'operazione di "crawling" copiando le varie pagine localmente.
 2. Effettuare una ricerca sui **DATABASE PUBBLICI** per rilevare eventuali informazioni legate al **DOMINIO** in oggetto.
 
-      - ViewDNS - one source for free DNS related tools and information.
-      - DNSLookup - is an advanced DNS lookup tool.
-      - DNSlytics - online DNS investigation tool.
-      - DNS Spy - monitor, validate and verify your DNS configurations.
-      - Zonemaster - helps you to control how your DNS works.
-      - Leaf DNS - comprehensive DNS tester.
-      - Find subdomains online - find subdomains for security assessment penetration test.
-      - DNSdumpster - dns recon & research, find & lookup dns records.
-      - DNS Table online - search for DNS records by domain, IP, CIDR, ISP.
-      - intoDNS - DNS and mail server health checker.
-      - DNS Bajaj - check the delegation of your domain.
-      - BuddyDNS Delegation LAB - check, trace and visualize delegation of your domain.
-      - dnssec-debugger - DS or DNSKEY records validator.
-      - PTRarchive.com - this site is responsible for the safekeeping of historical reverse DNS records.
-      - xip.io - wildcard DNS for everyone.
-      - dnslookup (ceipam) - one of the best DNS propagation checker (and not only).
-      - What's My DNS - DNS propagation checking tool.
-      - DNSGrep - quickly searching large DNS datasets.
+      - [ViewDNS](https://viewdns.info/) - one source for free DNS related tools and information.
+      - [DNSLookup](https://dnslookup.org/) - is an advanced DNS lookup tool.
+      - [ DNSlytics](https://dnslytics.com/) - online DNS investigation tool.
+      - [DNS Spy](https://dnsspy.io/) - monitor, validate and verify your DNS configurations.
+      - [Zonemaster](https://zonemaster.iis.se/en/) - helps you to control how your DNS works.
+      - [Leaf DNS](http://leafdns.com/) - comprehensive DNS tester.
+      - [Find subdomains online]() - find subdomains for security assessment penetration test.
+      - [DNSdumpster]() - dns recon & research, find & lookup dns records.
+      - [DNS Table online]() - search for DNS records by domain, IP, CIDR, ISP.
+      - [intoDNS]() - DNS and mail server health checker.
+      - [DNS Bajaj]() - check the delegation of your domain.
+      - [BuddyDNS Delegation LAB]() - check, trace and visualize delegation of your domain.
+      - [dnssec-debugger]() - DS or DNSKEY records validator.
+      - [PTRarchive.com]() - this site is responsible for the safekeeping of historical reverse DNS records.
+      - [xip.io]() - wildcard DNS for everyone.
+      - [dnslookup (ceipam)]() - one of the best DNS propagation checker (and not only).
+      - [What's My DNS]() - DNS propagation checking tool.
+      - [DNSGrep]() - quickly searching large DNS datasets.
 
 3. Analizzare i **BUSINESS** su cui si base l'azienda.
 4. Prendere nota dal sito di ogni informazione di contatto utile: indirizzo, telefono, mail, ecc.
