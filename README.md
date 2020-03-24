@@ -45,18 +45,18 @@
       - [DNS Spy](https://dnsspy.io/) - monitor, validate and verify your DNS configurations.
       - [Zonemaster](https://zonemaster.iis.se/en/) - helps you to control how your DNS works.
       - [Leaf DNS](http://leafdns.com/) - comprehensive DNS tester.
-      - [Find subdomains online]() - find subdomains for security assessment penetration test.
-      - [DNSdumpster]() - dns recon & research, find & lookup dns records.
-      - [DNS Table online]() - search for DNS records by domain, IP, CIDR, ISP.
-      - [intoDNS]() - DNS and mail server health checker.
-      - [DNS Bajaj]() - check the delegation of your domain.
-      - [BuddyDNS Delegation LAB]() - check, trace and visualize delegation of your domain.
-      - [dnssec-debugger]() - DS or DNSKEY records validator.
-      - [PTRarchive.com]() - this site is responsible for the safekeeping of historical reverse DNS records.
-      - [xip.io]() - wildcard DNS for everyone.
-      - [dnslookup (ceipam)]() - one of the best DNS propagation checker (and not only).
-      - [What's My DNS]() - DNS propagation checking tool.
-      - [DNSGrep]() - quickly searching large DNS datasets.
+      - [Find subdomains online](https://findsubdomains.com/) - find subdomains for security assessment penetration test.
+      - [DNSdumpster](https://dnsdumpster.com/) - dns recon & research, find & lookup dns records.
+      - [DNS Table online](https://spyse.com/) - search for DNS records by domain, IP, CIDR, ISP.
+      - [intoDNS](https://intodns.com/) - DNS and mail server health checker.
+      - [DNS Bajaj](http://www.zonecut.net/dns/) - check the delegation of your domain.
+      - [BuddyDNS Delegation LAB](https://www.buddyns.com/delegation-lab/) - check, trace and visualize delegation of your domain.
+      - [dnssec-debugger](https://dnssec-debugger.verisignlabs.com/) - DS or DNSKEY records validator.
+      - [PTRarchive.com](http://ptrarchive.com/) - this site is responsible for the safekeeping of historical reverse DNS records.
+      - [xip.io](http://xip.io/) - wildcard DNS for everyone.
+      - [dnslookup (ceipam)](https://ceipam.eu/en/dnslookup.php) - one of the best DNS propagation checker (and not only).
+      - [What's My DNS](https://www.whatsmydns.net/?utm_source=whatsmydns.com&utm_medium=redirect) - DNS propagation checking tool.
+      - [DNSGrep](https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/) - quickly searching large DNS datasets.
 
 3. Analizzare i **BUSINESS** su cui si base l'azienda.
 4. Prendere nota dal sito di ogni informazione di contatto utile: indirizzo, telefono, mail, ecc.
