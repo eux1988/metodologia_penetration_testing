@@ -101,12 +101,12 @@
      - [We Leak Info ](https://search.weleakinfo.com/)- to help everyday individuals secure their online life, avoiding getting hacked.
      - [pipl ](https://pipl.com/)- is the place to find the person behind the email address, social username or phone number.
      - [abuse.ch](https://abuse.ch/) - is operated by a random swiss guy fighting malware for non-profit.
-     - [malc0de]http://malc0de.com/database/) - malware search engine.
+     - [malc0de](http://malc0de.com/database/) - malware search engine.
      - [Cybercrime Tracker](https://cybercrime-tracker.net/index.php) - monitors and tracks various malware families that are used to perpetrate cyber crimes.
      - [shhgit](https://github.com/eth0izzle/shhgit/) - find GitHub secrets in real time.
      - [searchcode](https://searchcode.com/) - helping you find real world examples of functions, API's and libraries.
-     - [Insecam ]http://www.insecam.org/)- the world biggest directory of online surveillance security cameras.
-     - [index-of]http://index-of.es/) - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.
+     - [Insecam ](http://www.insecam.org/)- the world biggest directory of online surveillance security cameras.
+     - [index-of](http://index-of.es/) - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.
      - [Rapid7 Labs Open Data](https://opendata.rapid7.com/) - is a great resources of datasets from Project Sonar.
 
 
