@@ -75,8 +75,8 @@
       - :wrench:[Jooble](https://it.jooble.org/)
       - :wrench:[Jobsora](https://it.jobsora.com/)
       - :wrench:[Almalaurea](https://www.almalaurea.it/)
-      -:wrench: [JobbyDoo](https://www.jobbydoo.it/)
-      -:wrench: [JOBRAPIDO](https://it.jobrapido.com/)
+      - :wrench: [JobbyDoo](https://www.jobbydoo.it/)
+      - :wrench: [JOBRAPIDO](https://it.jobrapido.com/)
       - :wrench:[CAREERJET](https://www.careerjet.it/)
 
 10. Effettuare una ricerca all'interno dei **Social Network (Linkedin in primis)**.
