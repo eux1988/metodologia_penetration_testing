@@ -70,6 +70,7 @@
 12. Inviare delle **mail al personale** interno dell'azienda chiedendo "finte informazioni" al fine di acquisire ulteriori dettagli. 
 13. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
 14. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
+15. Utilizzare i **"MASS SCANNER"** per trovare ulteriori informazioni legate al target di riferimento.
 
 
 # :boom:WEB PENETRATION TESTING 
