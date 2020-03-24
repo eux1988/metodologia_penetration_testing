@@ -2,6 +2,8 @@
 
 ## Sulla Metodologia Del Penetration Testing | Tecniche - Strumenti - Risorse
 
+![PENETRATION TESTING](https://www.breachlock.com/wp-content/uploads/2019/09/V_C_3.jpg)
+
 # :boom: NETWORK PENETRATION TESTING 
 
 ## :ballot_box_with_check: FASE 0 |  PRELIMINARE
