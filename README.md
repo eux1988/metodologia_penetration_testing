@@ -72,6 +72,44 @@
 14. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
 15. Utilizzare i **"MASS SCANNER"** per trovare ulteriori informazioni legate al target di riferimento.
 
+     -[Censys][](https://censys.io/)- platform that helps information security practitioners discover, monitor, and analyze devices.
+     -[Shodan](https://www.shodan.io/Shodan) - the world's first search engine for Internet-connected devices.
+     -[Shodan 2000](https://2000.shodan.io/#/) - do you use Shodan for everyday work? This tool looks for randomly generated data from Shodan.
+     -[tableGreyNoise](https://viz.greynoise.io/) - mass scanner such as Shodan and Censys.
+     -[ZoomEye ](https://www.zoomeye.org/)- search engine for cyberspace that lets the user find specific network components.
+     -[netograph](https://netograph.io/) - tools to monitor and understand deep structure of the web.
+     -[FOFA](https://fofa.so/) - is a cyberspace search engine.
+     -[onyphe](https://www.onyphe.io/) - is a search engine for open-source and cyber threat intelligence data collected.
+     -[IntelligenceX](https://intelx.io/) - is a search engine and data archive.
+     -[binaryedge](https://app.binaryedge.io/) - it scan the entire internet space and create real-time threat intelligence streams and reports.
+     -[wigle ](https://wigle.net/)- is a submission-based catalog of wireless networks. All the networks. Found by Everyone.
+     -[PublicWWW](https://publicwww.com/) - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
+     -[IntelTechniques ](https://inteltechniques.com/index.html) - this repository contains hundreds of online search utilities.
+     -[hunter ](https://hunter.io/)- lets you find email addresses in seconds and connect with the people that matter for your business.
+     -[GhostProject?](https://ghostproject.fr/)- search by full email address or username.
+     -[databreaches](https://www.databreaches.live/)  - was my email affected by data breach?
+     -[We Leak Info](https://weleakinfo.com)We  - world's fastest and largest data breach search engine.
+     -[Pulsedive](https://pulsedive.com/) - scans of malicious URLs, IPs, and domains, including port scans and web requests.
+     -[Buckets by Grayhatwarfar](https://buckets.grayhatwarfare.com/) - database with public search for Open Amazon S3 Buckets and their contents.
+     -[Vigilante.pw](https://vigilante.pw/) - the breached database directory.
+     -[builtwith](https://builtwith.com/) - find out what websites are built with.
+     -[NerdyData ](https://nerdydata.com/)- search the web's source code for technologies, across millions of sites.
+     -[Mamont's open FTP Index](https://www.mmnt.net/) - if a target has an open FTP site with accessible content it will be listed here.
+     -[OSINT Framework](https://osintframework.com/) - focused on gathering information from free tools or resources.
+     -[maltiverse](https://www.maltiverse.com/search)  - is a service oriented to cybersecurity analysts for the advanced analysis of indicators of compromise.
+     -[Leaked Source](https://leakedsource.ru/main/) - is a collaboration of data found online in the form of a lookup.
+     -[We Leak Info ](https://search.weleakinfo.com/)- to help everyday individuals secure their online life, avoiding getting hacked.
+     -[pipl ](https://pipl.com/)- is the place to find the person behind the email address, social username or phone number.
+     -[abuse.ch](https://abuse.ch/) - is operated by a random swiss guy fighting malware for non-profit.
+     -[malc0de]http://malc0de.com/database/) - malware search engine.
+     -[Cybercrime Tracker](https://cybercrime-tracker.net/index.php) - monitors and tracks various malware families that are used to perpetrate cyber crimes.
+     -[shhgit](https://github.com/eth0izzle/shhgit/) - find GitHub secrets in real time.
+     -[searchcode](https://searchcode.com/) - helping you find real world examples of functions, API's and libraries.
+     -[Insecam ]http://www.insecam.org/)- the world biggest directory of online surveillance security cameras.
+     -[index-of]http://index-of.es/) - contains great stuff like: security, hacking, reverse engineering, cryptography, programming etc.
+     -[Rapid7 Labs Open Data](https://opendata.rapid7.com/) - is a great resources of datasets from Project Sonar.
+
+
 
 # :boom:WEB PENETRATION TESTING 
 
