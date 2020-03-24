@@ -67,6 +67,18 @@
 7. Identificare la locazione geografica dell'azienda e di eventuali **uffici/sedi "satellite"**.
 8. Verificare il contenuto di **precedenti versioni del sito web aziendale**, in quanto, i contenuti potrebbero essere cambiati. 
 9. Verificare la presenza di **annunci di lavoro** pubblicati sui vari siti/motori di ricerca specifici dato che potrebbero indirettamente fornire informazioni sulla tipologia di prodotti hardware/software utilizzati e sull'organizzazione più in generale.
+
+      - [Linkedin](https://www.linkedin.com/)
+      - [Indeed](https://it.indeed.com/)
+      - [Infojobs](https://www.infojobs.it/)
+      - [Monster](https://www.monster.it/)
+      - [Jooble](https://it.jooble.org/)
+      - [Jobsora](https://it.jobsora.com/)
+      - [Almalaurea](https://www.almalaurea.it/)
+      - [JobbyDoo](https://www.jobbydoo.it/)
+      - [JOBRAPIDO](https://it.jobrapido.com/)
+      - [CAREERJET](https://www.careerjet.it/)
+
 10. Effettuare una ricerca all'interno dei **Social Network (Linkedin in primis)**.
 11. Cercare di ottenere una **lista del personale** che lavora all'interno dell'azienda.
 12. Inviare delle **mail al personale** interno dell'azienda chiedendo "finte informazioni" al fine di acquisire ulteriori dettagli. 
