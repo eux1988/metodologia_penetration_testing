@@ -34,6 +34,8 @@
 
 ## :ballot_box_with_check: FASE 1 |  RACCOLTA DELLE INFORMAZIONI | INFORMATION GATHERING
 
+![OSINT LANDSCAPE](https://i.pinimg.com/originals/17/42/60/1742609b23627ea1895cb109d44e31a4.jpg)
+
 
 # :boom:WEB PENETRATION TESTING 
 
