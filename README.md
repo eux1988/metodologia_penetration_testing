@@ -90,6 +90,8 @@
 
 ### :eight_spoked_asterisk: FIREWALL ASSESSMENT
 
+### :eight_spoked_asterisk: PASSWORD CRACKING
+
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
