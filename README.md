@@ -38,6 +38,8 @@
 
 ![OSINT LANDSCAPE](https://i.pinimg.com/originals/17/42/60/1742609b23627ea1895cb109d44e31a4.jpg)
 
+### :bomb: DI SEGUITO UN'OTTIMA LISTA DI TOOL OSINT -> [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+
 1. Visitare il sito dell'organizzazione "target" ed effettuare l'operazione di "crawling" copiando le varie pagine localmente.
 2. Effettuare una ricerca sui **DATABASE PUBBLICI** per rilevare eventuali informazioni legate al **DOMINIO** in oggetto.
 3. Analizzare i **BUSINESS** su cui si base l'azienda.
