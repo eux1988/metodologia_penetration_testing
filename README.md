@@ -22,13 +22,13 @@
 8. Redarre un **DOCUMENTO CONTRATTUALE** in cui sono specificati i termini economici e di durata temporale del PT.
 9. Dopo aver formalizzato tutta la parte economica e contrattule, procedere con la definizione di una **LISTA DETTAGLIATA** (comprensivi di indirizzi IP, porte, servizi...) di tutti gli elementi che si dovranno testare:
 
-      - Dispositivi di rete (Router, Switch, ecc...).
-      - Server | Workstation.
-      - Web Application.
-      - Dispositivi SCADA | ICS.
-      - Dispositivi di rete WIFI.
-      - Dispositivi IoT.
-      - Altro.
+      - :fire:Dispositivi di rete (Router, Switch, ecc...).
+      - :fire:Server | Workstation.
+      - :fire:Web Application.
+      - :fire:Dispositivi SCADA | ICS.
+      - :fire:Dispositivi di rete WIFI.
+      - :fire:Dispositivi IoT.
+      - :fire:Altro.
       
 10. Essere in posseso di una **lista di contatti** lato cliente da chiamare in caso di necessità.
 11. Avvertire (se previsto dalla tipologia di PT che si dovrà eseguire) l'IT TEAM del cliente quando si andranno ad effettuare le varie attività relative al PT così che possano monitore la situazione.
