@@ -84,6 +84,10 @@
 
 ### :eight_spoked_asterisk: OPERATING SYSTEMS EXPLOITATION
 
+#### :eight_pointed_black_star: WINDOWS SYSTEMS EXPLOITATION
+
+#### :eight_pointed_black_star: LINUX SYSTEMS EXPLOITATION
+
 ### :eight_spoked_asterisk: VPN ASSESSMENT
 
 ### :eight_spoked_asterisk: IPS/IDS ASSESSMENT
