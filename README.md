@@ -78,6 +78,12 @@
 
 ## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
 
+### :eight_spoked_asterisk: VULNERABILITY ASSESSMENT
+
+### :eight_spoked_asterisk: COMMON NETWORK SERVICES ASSESSMENT
+
+
+
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
 
