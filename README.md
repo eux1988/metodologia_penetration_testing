@@ -92,12 +92,14 @@
 
 ### :eight_spoked_asterisk: PASSWORD CRACKING
 
+### :eight_spoked_asterisk: REMOTE NETWORK TRAFFIC ANALYSIS
+
 
 ## :ballot_box_with_check: FASE 4 | INTERNAL PENETRATION TESTING
 
 ### :eight_spoked_asterisk: LOCAL NETWORKS ATTACKS
 
-### :eight_spoked_asterisk: NETWORK TRAFFIC ANALYSIS
+### :eight_spoked_asterisk: LOCAL NETWORK TRAFFIC ANALYSIS
 
 ## :ballot_box_with_check: FASE 5 | FINAL REPORT
 
