@@ -82,6 +82,7 @@
 
 ### :eight_spoked_asterisk: COMMON NETWORK SERVICES ASSESSMENT
 
+### :eight_spoked_asterisk: OPERATING SYSTEMS EXPLOITATION
 
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
