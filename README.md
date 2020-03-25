@@ -84,6 +84,8 @@
 
 ### :eight_spoked_asterisk: OPERATING SYSTEMS EXPLOITATION
 
+### :eight_spoked_asterisk: VPN ASSESSMENT
+
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
