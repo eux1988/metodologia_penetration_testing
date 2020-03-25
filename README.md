@@ -67,8 +67,6 @@
 13. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
 14. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
      
-### :bomb: DI SEGUITO UN'OTTIMA LISTA DI TOOL OSINT -> [Awesome OSINT](https://github.com/jivoi/awesome-osint)
-
 ## :ballot_box_with_check: FASE 2 |  INGEGNERIA SOCIALE | SOCIAL ENGINEERING
 
 ## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
