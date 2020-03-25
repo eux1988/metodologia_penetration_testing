@@ -69,7 +69,7 @@
      
 ## :ballot_box_with_check: FASE 2 | INGEGNERIA SOCIALE | SOCIAL ENGINEERING
 
-:pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare nella fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
+:pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare vicino alla fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
 
 1. Tentare un attacco di ingegneria sociale tramite l'utilizzo del TELEFONO.
 2. Tentare un attacco di ingegneria sociale tramite l'utilizzo delle MAIL.
