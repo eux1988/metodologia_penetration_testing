@@ -90,6 +90,14 @@
 
 ### :eight_spoked_asterisk: VPN ASSESSMENT
 
+#### :eight_pointed_black_star: SERVICE FINGERPRINTING AND SOFTWARE EVALUATION
+
+#### :eight_pointed_black_star: IDENTIFYING CRYPTOGRAPHIC WEAKNESSES
+
+#### :eight_pointed_black_star: EXPLOITATION OF AGGRESSIVE MODE IKE
+
+#### :eight_pointed_black_star: BRUTE-FORCE PASSWORD GRINDING
+
 ### :eight_spoked_asterisk: IPS/IDS ASSESSMENT
 
 ### :eight_spoked_asterisk: FIREWALL ASSESSMENT
