@@ -87,6 +87,8 @@
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
+### :eight_spoked_asterisk: LOCAL NETWORKS ATTACKS
+
 
 # :boom:WEB PENETRATION TESTING 
 
