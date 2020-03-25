@@ -100,6 +100,12 @@
 
 ### :eight_spoked_asterisk: IPS/IDS ASSESSMENT
 
+#### :eight_pointed_black_star: INSERTING DATA
+
+#### :eight_pointed_black_star: FRAGMENTING PACKETS
+
+#### :eight_pointed_black_star: MODIFYING PACKET DATA
+
 ### :eight_spoked_asterisk: FIREWALL ASSESSMENT
 
 ### :eight_spoked_asterisk: PASSWORD CRACKING
