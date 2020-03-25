@@ -149,10 +149,33 @@
 
 ### :eight_spoked_asterisk: REMOTE NETWORK TRAFFIC ANALYSIS
 
-
 ## :ballot_box_with_check: FASE 4 | INTERNAL PENETRATION TESTING
 
 ### :eight_spoked_asterisk: LOCAL NETWORKS ATTACKS
+
+#### :eight_pointed_black_star: MAC SPOOFING
+
+#### :eight_pointed_black_star: ARP CACHE POISONING
+
+#### :eight_pointed_black_star: CAM TABLE OVERFLOW
+
+#### :eight_pointed_black_star: VLAN HOPPING
+
+#### :eight_pointed_black_star: MODIFYING 802.1D STP TRAFFIC FLOW
+
+#### :eight_pointed_black_star: ACCESSING PRIVILEGED VLANS 
+
+#### :eight_pointed_black_star: CRACKING 802.1X CREDENTIALS
+
+#### :eight_pointed_black_star: CDP FLOODING/SPOOFING
+
+#### :eight_pointed_black_star: USE OF ROGUE DHCP AND WPAD
+
+#### :eight_pointed_black_star: LLMNR, NBT-NS, AND MDNS SPOOFING
+
+#### :eight_pointed_black_star: ROUTER IMPERSONATION VIA HSRP, EIGRP, OSPF
+
+#### :eight_pointed_black_star: IPV6 DISCOVERY PROTOCOL SPOOFING
 
 ### :eight_spoked_asterisk: LOCAL NETWORK TRAFFIC ANALYSIS
 
