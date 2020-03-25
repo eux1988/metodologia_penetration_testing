@@ -117,6 +117,11 @@
      - :fire:[Insecam ](http://www.insecam.org/)- the world biggest directory of online surveillance security cameras.
      - :fire:[Rapid7 Labs Open Data](https://opendata.rapid7.com/) - is a great resources of datasets from Project Sonar.
 
+## :ballot_box_with_check: FASE 2 |  INGEGNERIA SOCIALE | SOCIAL ENGINEERING
+
+## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
+
+## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
 
 # :boom:WEB PENETRATION TESTING 
