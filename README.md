@@ -69,6 +69,8 @@
      
 ## :ballot_box_with_check: FASE 2 |  INGEGNERIA SOCIALE | SOCIAL ENGINEERING
 
+:pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare nella fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
+
 ## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
