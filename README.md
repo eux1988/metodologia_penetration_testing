@@ -116,6 +116,8 @@
      - :fire:[searchcode](https://searchcode.com/) - helping you find real world examples of functions, API's and libraries.
      - :fire:[Insecam ](http://www.insecam.org/)- the world biggest directory of online surveillance security cameras.
      - :fire:[Rapid7 Labs Open Data](https://opendata.rapid7.com/) - is a great resources of datasets from Project Sonar.
+     
+### :bomb: DI SEGUITO UN'OTTIMA LISTA DI TOOL OSINT -> [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 
 ## :ballot_box_with_check: FASE 2 |  INGEGNERIA SOCIALE | SOCIAL ENGINEERING
 
