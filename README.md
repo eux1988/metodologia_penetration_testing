@@ -86,6 +86,10 @@
 
 ### :eight_spoked_asterisk: VPN ASSESSMENT
 
+### :eight_spoked_asterisk: IPS/IDS ASSESSMENT
+
+### :eight_spoked_asterisk: FIREWALL ASSESSMENT
+
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
 
