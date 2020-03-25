@@ -71,10 +71,29 @@
 
 :pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare vicino alla fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
 
-1. Tentare un attacco di ingegneria sociale tramite l'utilizzo del TELEFONO.
-2. Tentare un attacco di ingegneria sociale tramite l'utilizzo delle MAIL.
-3. Tentare un attacco di ingegneria recendosi di PERSONA nel posto.
+### :eight_spoked_asterisk: IMPERSONATION
 
+### :eight_spoked_asterisk: EAVESDROPPING
+
+### :eight_spoked_asterisk: SHOULDER SURFING
+
+### :eight_spoked_asterisk: DUMPSTER DIVING
+
+### :eight_spoked_asterisk: REVERSE SOCIAL ENGINEERING
+
+### :eight_spoked_asterisk: PIGGYBACKING 
+
+### :eight_spoked_asterisk: TAILGATING
+
+### :eight_spoked_asterisk: PHISHING
+
+### :eight_spoked_asterisk: SPEAR PHISHING
+
+### :eight_spoked_asterisk: PUBLISHING MALICIOUS APPS
+
+### :eight_spoked_asterisk: REPACKAGING LEGITIMATE APPS
+
+### :eight_spoked_asterisk: FAKE SECURITY APPS
 
 ## :ballot_box_with_check: FASE 3 | EXTERNAL PENETRATION TESTING
 
