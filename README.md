@@ -106,7 +106,25 @@
 
 #### :eight_pointed_black_star: MODIFYING PACKET DATA
 
+#### :eight_pointed_black_star: DENIAL OF SERVICE
+
+#### :eight_pointed_black_star: OBFUSCATING
+
+#### :eight_pointed_black_star: UNICODE EVASION TECHNIQUE
+
+#### :eight_pointed_black_star: FALSE POSITIVE ALERT GENERATION
+
+#### :eight_pointed_black_star: SESSION SPLICING
+
 ### :eight_spoked_asterisk: FIREWALL ASSESSMENT
+
+#### :eight_pointed_black_star: FIREWALL IDENTIFICATION
+
+#### :eight_pointed_black_star: IP ADDRESS SPOOFING
+
+#### :eight_pointed_black_star: SOURCE ROOTING
+
+#### :eight_pointed_black_star: SSH TUNNEL
 
 ### :eight_spoked_asterisk: PASSWORD CRACKING
 
