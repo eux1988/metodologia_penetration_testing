@@ -71,6 +71,11 @@
 
 :pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare nella fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
 
+1. Tentare un attacco di ingegneria sociale tramite l'utilizzo del TELEFONO.
+2. Tentare un attacco di ingegneria sociale tramite l'utilizzo delle MAIL.
+3. Tentare un attacco di ingegneria recendosi di PERSONA nel posto.
+
+
 ## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
 
 ## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
