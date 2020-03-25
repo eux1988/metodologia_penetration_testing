@@ -97,6 +97,8 @@
 
 ### :eight_spoked_asterisk: LOCAL NETWORKS ATTACKS
 
+### :eight_spoked_asterisk: NETWORK TRAFFIC ANALYSIS
+
 
 # :boom:WEB PENETRATION TESTING 
 
