@@ -6,7 +6,7 @@
 
 # :boom: NETWORK PENETRATION TESTING 
 
-## :ballot_box_with_check: FASE 0 |  PRELIMINARE
+## :ballot_box_with_check: FASE 0 | PRELIMINARE
 
 1. Raccogliere informazioni dettagliate sull'organizzazione su cui si andrà ed effettuare l'attività di **PT (Penetration Testing)**.
 2. Identificare il team IT dell'organizzazione con maggiore focus sulla parte IT Security.
@@ -34,7 +34,7 @@
 11. Avvertire (se previsto dalla tipologia di PT che si dovrà eseguire) l'IT TEAM del cliente quando si andranno ad effettuare le varie attività relative al PT così che possano monitore la situazione.
 12. Definire come dovrà essere **REDATTO e CONSEGNATO** al cliente il **[REPORT FINALE](https://github.com/juliocesarfort/public-pentesting-reports)**.
 
-## :ballot_box_with_check: FASE 1 |  RACCOLTA DELLE INFORMAZIONI | INFORMATION GATHERING
+## :ballot_box_with_check: FASE 1 | RACCOLTA DELLE INFORMAZIONI | INFORMATION GATHERING
 
 ![OSINT LANDSCAPE](https://i.pinimg.com/originals/17/42/60/1742609b23627ea1895cb109d44e31a4.jpg)
 
@@ -67,7 +67,7 @@
 13. Cercare di ottenere **dettagli personali** del personale che lavora all'interno dell'azienda.
 14. Utilizzare **tool automatici** al fine di valocizzare la raccolta delle informazioni relative all'azienda.
      
-## :ballot_box_with_check: FASE 2 |  INGEGNERIA SOCIALE | SOCIAL ENGINEERING
+## :ballot_box_with_check: FASE 2 | INGEGNERIA SOCIALE | SOCIAL ENGINEERING
 
 :pill:L'azione di INGEGNERIA SOCIALE si può idealmente collocare nella fase di INFORMATION GATHERING in quanto ci permette di ottenere INFORMAZIONI di valore per le successive fasi del PT.
 
@@ -76,7 +76,7 @@
 3. Tentare un attacco di ingegneria recendosi di PERSONA nel posto.
 
 
-## :ballot_box_with_check: FASE 3 |  EXTERNAL PENETRATION TESTING
+## :ballot_box_with_check: FASE 3 | EXTERNAL PENETRATION TESTING
 
 ### :eight_spoked_asterisk: VULNERABILITY ASSESSMENT
 
@@ -93,12 +93,15 @@
 ### :eight_spoked_asterisk: PASSWORD CRACKING
 
 
-## :ballot_box_with_check: FASE 4 |  INTERNAL PENETRATION TESTING
+## :ballot_box_with_check: FASE 4 | INTERNAL PENETRATION TESTING
 
 ### :eight_spoked_asterisk: LOCAL NETWORKS ATTACKS
 
 ### :eight_spoked_asterisk: NETWORK TRAFFIC ANALYSIS
 
+## :ballot_box_with_check: FASE 5 | FINAL REPORT
+
+## :ballot_box_with_check: {OPTIONAL}FASE 6 | REMEDIATION
 
 # :boom:WEB PENETRATION TESTING 
 
