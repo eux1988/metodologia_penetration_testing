@@ -101,6 +101,33 @@
 
 ### :eight_spoked_asterisk: COMMON NETWORK SERVICES ASSESSMENT
 
+#### :eight_pointed_black_star: FTP
+#### :eight_pointed_black_star: TFTP
+#### :eight_pointed_black_star: SSH
+#### :eight_pointed_black_star: TELNET
+#### :eight_pointed_black_star: IPMI
+#### :eight_pointed_black_star: DNS
+#### :eight_pointed_black_star: DHCP
+#### :eight_pointed_black_star: ARP
+#### :eight_pointed_black_star: NTP
+#### :eight_pointed_black_star: SNMP
+#### :eight_pointed_black_star: SMTP
+#### :eight_pointed_black_star: LDAP
+#### :eight_pointed_black_star: KERBEROS
+#### :eight_pointed_black_star: VNC
+#### :eight_pointed_black_star: Unix RPC
+#### :eight_pointed_black_star: NetBIOS
+#### :eight_pointed_black_star: SMB
+#### :eight_pointed_black_star: Microsoft RCP
+#### :eight_pointed_black_star: POP3
+#### :eight_pointed_black_star: IMAP
+#### :eight_pointed_black_star: RADIUS
+#### :eight_pointed_black_star: IRC
+
+
+
+
+
 ### :eight_spoked_asterisk: OPERATING SYSTEMS EXPLOITATION
 
 #### :eight_pointed_black_star: WINDOWS SYSTEMS EXPLOITATION
