@@ -98,6 +98,17 @@
 ## :ballot_box_with_check: FASE 3 | EXTERNAL PENETRATION TESTING
 
 ### :eight_spoked_asterisk: VULNERABILITY ASSESSMENT
+#### :eight_pointed_black_star: MISCONFIGURATION
+#### :eight_pointed_black_star: DEFAULT INSTALLATIONS
+#### :eight_pointed_black_star: BUFFER OVERFLOWS
+#### :eight_pointed_black_star: UNPATCHED SERVERS
+#### :eight_pointed_black_star: DESIGN FLAWS
+#### :eight_pointed_black_star: OPERATING SYSTEM FLAWS
+#### :eight_pointed_black_star: APPLICATION FLAWS
+#### :eight_pointed_black_star: OPEN SERVICES
+#### :eight_pointed_black_star: DEFAULT PASSWORDS
+
+
 
 ### :eight_spoked_asterisk: COMMON NETWORK SERVICES ASSESSMENT
 
