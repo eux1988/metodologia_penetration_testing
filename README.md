@@ -185,6 +185,12 @@
 
 ### :eight_spoked_asterisk: PASSWORD CRACKING
 
+#### :eight_pointed_black_star: ACTIVE ONLINE ATTACKS
+#### :eight_pointed_black_star: PASSIVE ONLINE ATTACKS
+#### :eight_pointed_black_star: OFFLINE ATTACKS
+
+
+
 ### :eight_spoked_asterisk: REMOTE NETWORK TRAFFIC ANALYSIS
 
 ## :ballot_box_with_check: FASE 4 | INTERNAL PENETRATION TESTING
